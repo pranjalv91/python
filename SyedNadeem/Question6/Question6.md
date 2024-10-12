@@ -1,4 +1,4 @@
-**Question 6:**<br />
+**Question 6**<br />
 **Problem:** Write a function that takes a string S and returns the length of the longest substring without repeating characters.<br />
 <br />
 **Input:** S = "abcabcbb"<br />

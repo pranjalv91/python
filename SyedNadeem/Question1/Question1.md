@@ -1,4 +1,5 @@
-**Question 1:**<br />
+**Question 1**<br />
+<br />
 **Problem:** Given an array A of integers, return the maximum sum of any contiguous subarray.<br />
 <br />
 **Input:** A = [-2,1,-3,4,-1,2,1,-5,4]<br />

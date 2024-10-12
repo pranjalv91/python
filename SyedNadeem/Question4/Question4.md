@@ -1,4 +1,5 @@
-**Question 4:**<br />
+**Question 4**<br />
+<br />
 **Problem:** You are given an array of integers A where every element appears twice except for one. Find that single element.<br />
 <br />
 **Input:** A = [4, 1, 2, 1, 2]<br />
