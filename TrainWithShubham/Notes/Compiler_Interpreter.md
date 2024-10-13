@@ -14,7 +14,7 @@
 - And finally it print the output of the operator based on the operator<br />
 
 ### Importing a library
-- When deciding to import a library, go to [pypi.org](pypi.org). This is the python project index<br />
+- When deciding to import a library, go to [pypi.org](https://pypi.org). This is the python project index<br />
 - This is the place where python libraries are present and uploaded by developers<br />
-- So lets say if you dont know how docker works, go to [pypi.org](pypi.org) and search for docker<br />
+- So lets say if you dont know how docker works, go to [pypi.org](https;//pypi.org) and search for docker<br />
 - Then use the docker pacakge which has good documentation and explains commands very well<br />
